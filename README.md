@@ -34,28 +34,28 @@ https://gitlab.com/styrcss/styr/raw/trunk/doc/img/screenshot.png)
 
 ## Features
 
-See https://styr.yasha.rs/
+See https://styr.yasha.app/
 
 ### Styles
 
-* [Button](https://styr.yasha.rs/button.html)
-* [Form](https://styr.yasha.rs/form.html)
-* [Grid](https://styr.yasha.rs/grid.html)
-* [Label](https://styr.yasha.rs/label.html)
-* [Table](https://styr.yasha.rs/table.html)
-* [Text](https://styr.yasha.rs/text.html)
-* [Typography](https://styr.yasha.rs/typography.html)
+* [Button](https://styr.yasha.app/button.html)
+* [Form](https://styr.yasha.app/form.html)
+* [Grid](https://styr.yasha.app/grid.html)
+* [Label](https://styr.yasha.app/label.html)
+* [Table](https://styr.yasha.app/table.html)
+* [Text](https://styr.yasha.app/text.html)
+* [Typography](https://styr.yasha.app/typography.html)
 
 ### Components
 
-* [Box](https://styr.yasha.rs/box.html)
-* [Breadcrumb](https://styr.yasha.rs/breadcrumb.html)
-* [Menu](https://styr.yasha.rs/menu.html)
-* [Message](https://styr.yasha.rs/message.html)
-* [Modal](https://styr.yasha.rs/modal.html)
-* [Pagination](https://styr.yasha.rs/pagination.html)
-* [Dropdown](https://styr.yasha.rs/dropdown.html)
-* [Sidebar](https://styr.yasha.rs/sidebar.html)
+* [Box](https://styr.yasha.app/box.html)
+* [Breadcrumb](https://styr.yasha.app/breadcrumb.html)
+* [Menu](https://styr.yasha.app/menu.html)
+* [Message](https://styr.yasha.app/message.html)
+* [Modal](https://styr.yasha.app/modal.html)
+* [Pagination](https://styr.yasha.app/pagination.html)
+* [Dropdown](https://styr.yasha.app/dropdown.html)
+* [Sidebar](https://styr.yasha.app/sidebar.html)
 
 
 ## Development
