@@ -101,7 +101,7 @@ See [LICENSE](LICENSE).
 
 ```txt
 Styr
-Copyright (c) 2017-2023 Yasuhiro Яша Asaka
+Copyright (c) 2017-2025 Yasha
 ```
 
 [pipeline]: https://gitlab.com/styrcss/styr/badges/trunk/pipeline.svg

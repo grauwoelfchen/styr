@@ -3,7 +3,7 @@
   "version": "0.0.32",
   "description": "STYlish css framewoRk",
   "main": "dst/styr.min.css",
-  "author": "Yasuhiro Asaka <yasuhiro.asaka@grauwoelfchen.net>",
+  "author": "Yasha <yasuhiro.asaka@grauwoelfchen.net>",
   "license": "MIT",
   "homepage": "https://gitlab.com/styrcss/styr",
   "keybords": [
