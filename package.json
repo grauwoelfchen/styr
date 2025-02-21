@@ -1,6 +1,6 @@
 {
   "name": "styr",
-  "version": "0.0.33",
+  "version": "0.0.34",
   "description": "STYlish css framewoRk",
   "main": "dst/styr.min.css",
   "author": "Yasha <yasuhiro.asaka@grauwoelfchen.net>",
