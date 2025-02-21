@@ -1,4 +1,10 @@
 Sat 22 Feb 2025 Yasha <yasuhiro.asaka@grauwoelfchen.net>
+	Update .npmignore
+
+	* .npmignore: Add .node-version and tmp directory as ignore
+
+	New release: v0.0.33
+
 	Update repository links
 
 Sat 28 Sep 2024 Yasha <yasuhiro.asaka@grauwoelfchen.net>

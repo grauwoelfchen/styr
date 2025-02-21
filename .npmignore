@@ -1,8 +1,10 @@
 .eslintrc
 .eslintignore
 .gitlab-ci.yml
+.node-version
 gulpfile.js
 doc
 src
+tmp
 node_modules
 venv
