@@ -1,19 +1,19 @@
 # Styr
 
-[![pipeline status][pipeline]][commit] [![npm version][version]][npm]
+[![npm version][version]][npm]
 
 `/stɪ́əɾ/`
 
 Styr; STYlish css framewoRk
 
 [![Screenshot](doc/img/screenshot-thumb.png)](
-https://gitlab.com/styrcss/styr/raw/trunk/doc/img/screenshot.png)
+https://codeberg.org/grauwoelfchen/styr/raw/trunk/doc/img/screenshot.png)
 
 
 ## Repositories
 
-* (main) https://gitlab.com/styrcss/styr
-* https://github.com/styrcss/styr
+* https://codeberg.org/grauwoelfchen/styr
+* https://git.sr.ht/~grauwoelfchen/styr
 
 
 ## Requirements
@@ -104,7 +104,5 @@ Styr
 Copyright (c) 2017-2025 Yasha
 ```
 
-[pipeline]: https://gitlab.com/styrcss/styr/badges/trunk/pipeline.svg
-[commit]: https://gitlab.com/styrcss/styr/commits/trunk
 [version]: https://img.shields.io/npm/v/styr.svg
 [npm]: https://www.npmjs.com/package/styr
